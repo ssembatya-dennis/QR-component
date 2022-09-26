@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-simple-plain-html-and-css-component-trsEXe_oWI)
+- Live Site URL: [Add live site URL here](https://qr-component-xa8c.vercel.app/)
 
 ### Built with
 
@@ -36,6 +36,6 @@ I learned how to structure and style an Html component with my own judgement rat
 
 ## Author
 
-- Website - [QR code component](https://www.your-site.com)
+- Website - [QR code component](https://qr-component-xa8c.vercel.app/)
 - Frontend Mentor - [@ssembatya-dennis](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@DennisSsembatya](https://www.twitter.com/yourusername)
