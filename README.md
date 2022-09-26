@@ -4,16 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### Screenshot
 
@@ -37,5 +32,5 @@ I learned how to structure and style an Html component with my own judgement rat
 ## Author
 
 - Website - [QR code component](https://qr-component-xa8c.vercel.app/)
-- Frontend Mentor - [@ssembatya-dennis](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@DennisSsembatya](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ssembatya-dennis](https://www.frontendmentor.io/profile/ssembatya-dennis)
+- Twitter - [@DennisSsembatya](https://twitter.com/DennisSsembatya)
