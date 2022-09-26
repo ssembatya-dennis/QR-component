@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-simple-plain-html-and-css-component-trsEXe_oWI)
-- Live Site URL: [Add live site URL here](https://qr-component-xa8c.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/a-simple-plain-html-and-css-component-trsEXe_oWI](https://www.frontendmentor.io/solutions/a-simple-plain-html-and-css-component-trsEXe_oWI)
+- Live Site URL: [https://qr-component-xa8c.vercel.app/](https://qr-component-xa8c.vercel.app/)
 
 ### Built with
 
